@@ -1,1 +1,1 @@
-<h3>Making a MERN Project to get make myself confident in Authorization using JWT and Backend</h3>
+<h3>Making a MERN Project to gain more confidence in Backend and Authorization using JWT</h3>
